@@ -1,4 +1,4 @@
 # Sukrutha-MS
-The beginning 1
+The beginning
 Hi , Myself Sukrutha... Excited to learn GIT!
 Learning Basic right now!
